@@ -5,4 +5,4 @@ url: https://blog.2jiho.com # root address of the site
 description: > # description of the site (multiple lines allowed)
   2jiho의 저장소
 
-theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please
