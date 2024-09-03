@@ -10,6 +10,8 @@ permalink: /:slug.html
 
 remote_theme: riggraz/no-style-please
 
+timezone: Asia/Seoul
+
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
