@@ -13,7 +13,7 @@ remote_theme: riggraz/no-style-please
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
+  date_format: "%Y년 %m월 %d일 %H시 %M분 %S초" # customize how date is formatted
   show_description: false # show blog description in home page
 
 sass:
