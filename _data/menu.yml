@@ -1,8 +1,4 @@
 entries:
-  - title: info
-    entries:
-      - title: 2jiho의 저장소 입니다.
-      
   - title: all posts
     post_list:
       show_more: true
